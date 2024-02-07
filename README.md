@@ -29,12 +29,16 @@ Before you dive into the enchantment, ensure your majestic system is equipped wi
 
     ```bash
     chmod +x install.sh
-    ./install.sh
+    sudo ./install.sh
     ```
+
+## Demo
+![Demo](/demo.png)
+
 
 ## Addition
 
-🔒 In order for the tool to work, grant it privileged access by running as Root!
+🔒 In order for the tool to be fully installed, grant it privileged access by installing as Root!
 
 ## How to use
 
