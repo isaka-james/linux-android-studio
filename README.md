@@ -1,5 +1,5 @@
 # 🚀 Android Studio Env Setup Wizard for Linux 🐧
-
+    <img src="https://komarev.com/ghpvc/?username=kali-android-studio&label=kali-android-studio&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 ## Introduction
 
 Tired of the mundane task of juggling environment variables for Android Studio on Linux? Fear not! Embark on a luxurious journey with our enchanting tool designed to sprinkle some magic and make setting up a breeze.
@@ -16,7 +16,7 @@ Before you dive into the enchantment, ensure your majestic system is equipped wi
 1. 🧙‍♂️ Clone this magical repository to your local realm:
 
     ```bash
-    git clone https://github.com/reprogamaco/kali-android-studio.git
+    git clone https://github.com/isaka-james/kali-android-studio.git
     ```
 
 2. 🚪 Step into the wizard's opulent lair:
