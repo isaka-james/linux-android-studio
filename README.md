@@ -17,7 +17,7 @@ Before you dive into the enchantment, ensure your majestic system is equipped wi
 1. 🧙‍♂️ Clone this magical repository to your local realm:
 
     ```bash
-    git clone https://github.com/isaka-james/kali-android-studio.git
+    git clone https://github.com/isaka-james/linux-android-studio.git
     ```
 
 2. 🚪 Step into the wizard's opulent lair:
@@ -32,8 +32,10 @@ Before you dive into the enchantment, ensure your majestic system is equipped wi
     chmod +x install.sh
     sudo ./install.sh
     ```
+### Installation screenshot:
+![Screenshot from 2024-03-04 12-38-58](https://github.com/isaka-james/linux-android-studio/assets/76619967/6569b59a-3e5d-4392-9433-934959c1021f)
 
-## Demo
+### Now you can Run normally:
 ![Demo](/demo.png)
 
 
