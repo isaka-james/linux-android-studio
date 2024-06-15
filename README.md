@@ -33,10 +33,12 @@ Before you dive into the enchantment, ensure your majestic system is equipped wi
     sudo ./install.sh
     ```
 ### Installation screenshot:
-![Screenshot from 2024-03-04 12-38-58](https://github.com/isaka-james/linux-android-studio/assets/76619967/6569b59a-3e5d-4392-9433-934959c1021f)
+![Screenshot from 2024-06-15 19-02-50](https://github.com/isaka-james/linux-android-studio/assets/76619967/c0fa4b95-a484-4406-afd7-e8bdd3968271)
+
 
 ### Now you can Run normally:
-![Demo](/demo.png)
+![Screenshot from 2024-06-15 19-03-41](https://github.com/isaka-james/linux-android-studio/assets/76619967/a6b335ab-f88a-47a1-8289-b0fa6686f6e2)
+
 
 
 ## Addition
